@@ -4,9 +4,14 @@ I'm excited to share my Power BI dashboard project focused on analyzing Indian r
 
 ## 📂 Project Files
 
-* **Project File:** [View / Download Power BI Dashboard](YOUR_PBIX_LINK)
-* **Dataset:** [View Dataset](YOUR_DATASET_LINK)
-* **Dashboard Screenshot:** [View Dashboard Screenshot](YOUR_SCREENSHOT_LINK)
+## 📂 Project Files
+
+* **Project File:** [View / Download Power BI Dashboard](https://github.com/rushikesh-girase-08/Indian-Road-Accident-Analysis/blob/main/Road%20Accident%20Analysis%20Dashboard%20%282022-25%29.pbix)
+  
+* **Dataset:** [View Dataset](https://github.com/rushikesh-girase-08/Indian-Road-Accident-Analysis/blob/main/indian_roads_dataset.csv)
+
+* **Dashboard Screenshot:** [View Dashboard Screenshot](https://github.com/rushikesh-girase-08/Indian-Road-Accident-Analysis/blob/main/Dashboard%20Screenshot)
+
 
 📊 Key Insights at a Glance
 
@@ -30,8 +35,7 @@ KPI Analysis
 The objective of this project is to analyze road accident data, explore accident patterns, monitor key performance indicators, and present useful information through an interactive dashboard to support data-driven road safety analysis.
 
 🖼️ Dashboard Preview
-
-
+<img width="504" height="378" alt="Screenshot 2026-09-27 203136" src="https://github.com/user-attachments/assets/347d259d-d4a2-4a98-96be-99f32bc643ad" />
 
 
 With interactive visuals and KPI cards, this dashboard makes it easier to explore accident trends, casualties, and road safety patterns.
