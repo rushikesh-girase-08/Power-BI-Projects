@@ -38,6 +38,7 @@ The objective of this project is to analyze road accident data, explore accident
 <img width="504" height="378" alt="Screenshot 2026-09-27 203136" src="https://github.com/user-attachments/assets/347d259d-d4a2-4a98-96be-99f32bc643ad" />
 
 
+
 With interactive visuals and KPI cards, this dashboard makes it easier to explore accident trends, casualties, and road safety patterns.
 
 💡 Key Takeaway
